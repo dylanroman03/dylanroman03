@@ -1,3 +1,5 @@
+## HI There
+
 <!--
 **dylanroman03/dylanroman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,9 @@ Here are some ideas to get you started:
 
 <!-- JOURNEY -->
 ### _JOURNEY_  ~
-
+- 2017: I start to learn code in [Free Code Camp](https://www.freecodecamp.org/)
+- 2019: I start my first job as Junior Developer
+- 2022: I start to study at the University  
 
 
 <!-- TECH -->
@@ -28,7 +32,7 @@ Here are some ideas to get you started:
 - Linux - I love it!!!
 - Java / PHP - Basic knowledge
 - C++ - Basic knowledge of Data Structure (I want to learn more about it)
-- 
+  
 <!-- STATS -->
 
 <a href="https://github.com/ahn-nath">
