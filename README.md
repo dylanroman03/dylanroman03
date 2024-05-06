@@ -28,9 +28,9 @@
   
 <!-- STATS -->
 
-<a href="http://www.github.com/dylanroman03"><img src="https://github-readme-stats.vercel.app/api?username=dylanroman03&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="dylanroman03's GitHub stats" /></a>
+<a href="http://www.github.com/dylanroman03"><img src="https://github-readme-stats-eight-tau-26.vercel.app/api?username=dylanroman03&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="dylanroman03's GitHub stats" /></a>
 
-<a href="http://www.github.com/dylanroman03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dylanroman03&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dylanroman03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dylanroman03&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&exclude_days=Sun,Sat" /></a>
 
-<a href="http://www.github.com/dylanroman03"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanroman03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
+<a href="http://www.github.com/dylanroman03"><img src="https://github-readme-stats-eight-tau-26.vercel.app/api/top-langs/?username=dylanroman03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 
