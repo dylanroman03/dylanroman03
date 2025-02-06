@@ -12,7 +12,9 @@
 ### _JOURNEY_  ~
 - 2017: I start to learn code in [Free Code Camp](https://www.freecodecamp.org/)
 - 2019: I start my first job as Junior Developer
-- 2022: I start to study at the University  
+- 2022: I start to study at the University
+
+- 2020/now: Working like a Movile Developer for ADN Software
 
 
 <!-- TECH -->
