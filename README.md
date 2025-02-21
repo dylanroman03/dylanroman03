@@ -25,9 +25,14 @@
 - Dart / Flutter - Make Great Apps - Mobile Developer.
 - Ionic / Angular - Mobile Developer.
 - Linux - I love it!!!
-- Java / PHP - Basic knowledge
+- Java / PHP / Python - Basic knowledge
 - C++ - Basic knowledge of Data Structure (I want to learn more about it)
-  
+- Rust - Learning
+
+### _Other Things_ ~
+- My EasyResend Package: <a href="https://pub.dev/packages/easy_resend">pub.dev</a>
+
+### _Stats_ ~
 <!-- STATS -->
 
 <a href="http://www.github.com/dylanroman03"><img src="https://github-readme-stats-eight-tau-26.vercel.app/api?username=dylanroman03&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="dylanroman03's GitHub stats" /></a>
