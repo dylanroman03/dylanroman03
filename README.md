@@ -14,7 +14,8 @@
 - 2019: I start my first job as Junior Developer
 - 2022: I start to study at the University
 
-- 2020/now: Working like a Movile Developer for ADN Software
+- 2020/2026: Working like a Movile Developer for ADN Software
+- 2026/now: Working like a Freelancer
 
 
 <!-- TECH -->
@@ -28,9 +29,11 @@
 - Java / PHP / Python - Basic knowledge
 - C++ - Basic knowledge of Data Structure (I want to learn more about it)
 - Rust - Learning
+- Bash/ZSH
 
 ### _Other Things_ ~
 - My EasyResend Package: <a href="https://pub.dev/packages/easy_resend">pub.dev</a>
+- My CPU Flow Simulator  <a href="https://dylanroman03.github.io/cpu_flow_simulator/">live here</a>
 
 ### _Stats_ ~
 <!-- STATS -->
